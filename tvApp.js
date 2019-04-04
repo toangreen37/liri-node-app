@@ -1,0 +1,6 @@
+-Show class
+-Actor class
+-Switch case between class and actor 
+-Find show using api 
+-Find Actor using api 
+-Log result -> log.file (Appending result) 
