@@ -13,14 +13,7 @@ ex. node (file name) concert-this Zedd
 
 
 
+<img width="1440" alt="Command" src="https://user-images.githubusercontent.com/46271986/58225260-d33fb200-7ce6-11e9-8925-9fd0fff0f71a.png">
 
 
-
-
-
-
-
-
-
-if you look at IMAGE folder. Inside you should find a screen shot showing the 3 command being used.
-In the other screen shot you should see the data being log into log.txt. 
+<img width="1440" alt="log" src="https://user-images.githubusercontent.com/46271986/58225278-e9e60900-7ce6-11e9-8301-1151ebd50b4f.png">
